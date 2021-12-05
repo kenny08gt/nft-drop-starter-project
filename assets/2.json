@@ -1,0 +1,19 @@
+{
+    "name": "Tele wood",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "DxmX3FtHZUn8BeafveeaGam1Vebp5fYSmAQMqxMjns2F",
+                "share": 100
+            }
+        ]
+    }
+}

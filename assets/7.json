@@ -1,0 +1,19 @@
+{
+    "name": "Black wid",
+    "symbol": "",
+    "image": "7.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "7.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "DxmX3FtHZUn8BeafveeaGam1Vebp5fYSmAQMqxMjns2F",
+                "share": 100
+            }
+        ]
+    }
+}

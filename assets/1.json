@@ -1,0 +1,19 @@
+{
+    "name": "Sunset Madness",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "DxmX3FtHZUn8BeafveeaGam1Vebp5fYSmAQMqxMjns2F",
+                "share": 100
+            }
+        ]
+    }
+}

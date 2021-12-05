@@ -1,0 +1,19 @@
+{
+    "name": "Strato Ocean",
+    "symbol": "",
+    "image": "3.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "3.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "DxmX3FtHZUn8BeafveeaGam1Vebp5fYSmAQMqxMjns2F",
+                "share": 100
+            }
+        ]
+    }
+}

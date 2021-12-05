@@ -1,0 +1,19 @@
+{
+    "name": "Apple winie",
+    "symbol": "",
+    "image": "4.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "4.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "DxmX3FtHZUn8BeafveeaGam1Vebp5fYSmAQMqxMjns2F",
+                "share": 100
+            }
+        ]
+    }
+}

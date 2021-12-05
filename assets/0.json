@@ -1,0 +1,19 @@
+{
+    "name": "Acoustic banana",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "DxmX3FtHZUn8BeafveeaGam1Vebp5fYSmAQMqxMjns2F",
+                "share": 100
+            }
+        ]
+    }
+}
