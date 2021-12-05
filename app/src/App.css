@@ -74,6 +74,11 @@
   margin-top: 50px;
 }
 
+.mint-button:disabled,
+.mint-button[disabled]{
+  opacity: 0.3;
+}
+
 .footer-container {
   display: flex;
   justify-content: center;
